@@ -1,0 +1,1 @@
+﻿define({'default':{'OpenBookIconAlternateText':'Open Book','ClosedBookIconAlternateText':'Closed Book','TopicIconAlternateText':'Topic','MarkAsNewIconAlternateText':'New Topic'}});

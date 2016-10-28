@@ -1,0 +1,1 @@
+﻿define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/Topic.htm'],s:['2'],p:[['2',0]]});
